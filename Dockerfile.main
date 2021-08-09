@@ -81,6 +81,9 @@ RUN rm -rf /etc/apt/sources.list && \
 	openvpn \
 	ffmpeg \
 	pluma \
+	vlc \
+	obs-studio \
+	bless \
 #Fluxbox
 	/app/fluxbox-mod.deb && \
 #Websockify
